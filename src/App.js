@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Chris AND Brandyn are both Gods
+            Chris AND Brandyn are both Gods!!
           </h1>
         </header>
       </div>
