@@ -21,6 +21,10 @@ class App extends Component {
         </nav>
         <div>
           <DateHeader dateHeaders={this.state.dates} />
+<<<<<<< HEAD
+=======
+          <DateEvent dateEvents={this.state.dateEvents} />
+>>>>>>> 5d7f61552a0f6d631cb7603f2d5240f9523e8591
         </div>
       </div>
     );
