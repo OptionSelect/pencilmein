@@ -11,14 +11,14 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <a
+          <h1
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
-          </a>
+            Brandyn is a God
+          </h1>
         </header>
       </div>
     );
